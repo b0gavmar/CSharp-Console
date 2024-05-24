@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2103DE6B-2CDC-49F3-A596-6A24B6E2401A}|StudentProject\\StudentProject.csproj|c:\\users\\b0gavmar\\desktop\\studentproject\\studentproject\\studentextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2103DE6B-2CDC-49F3-A596-6A24B6E2401A}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\studentextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2103DE6B-2CDC-49F3-A596-6A24B6E2401A}|StudentProject\\StudentProject.csproj|c:\\users\\b0gavmar\\desktop\\studentproject\\studentproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2103DE6B-2CDC-49F3-A596-6A24B6E2401A}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E2EAA6-AF1E-4832-8C03-BC2E6D37E800}|StudentProjectTests\\StudentProjectTests.csproj|c:\\users\\b0gavmar\\desktop\\studentproject\\studentprojecttests\\studentextensiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E2EAA6-AF1E-4832-8C03-BC2E6D37E800}|StudentProjectTests\\StudentProjectTests.csproj|solutionrelative:studentprojecttests\\studentextensiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E2EAA6-AF1E-4832-8C03-BC2E6D37E800}|StudentProjectTests\\StudentProjectTests.csproj|c:\\users\\b0gavmar\\desktop\\studentproject\\studentprojecttests\\studenttestsequalto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E2EAA6-AF1E-4832-8C03-BC2E6D37E800}|StudentProjectTests\\StudentProjectTests.csproj|solutionrelative:studentprojecttests\\studenttestsequalto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2103DE6B-2CDC-49F3-A596-6A24B6E2401A}|StudentProject\\StudentProject.csproj|c:\\users\\b0gavmar\\desktop\\studentproject\\studentproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2103DE6B-2CDC-49F3-A596-6A24B6E2401A}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentExtensionTests.cs",
+              "DocumentMoniker": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProjectTests\\StudentExtensionTests.cs",
+              "RelativeDocumentMoniker": "StudentProjectTests\\StudentExtensionTests.cs",
+              "ToolTip": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProjectTests\\StudentExtensionTests.cs",
+              "RelativeToolTip": "StudentProjectTests\\StudentExtensionTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:15:23.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\Student.cs",
+              "RelativeDocumentMoniker": "StudentProject\\Student.cs",
+              "ToolTip": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\Student.cs",
+              "RelativeToolTip": "StudentProject\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:05:34.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentExtension.cs",
+              "DocumentMoniker": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\StudentExtension.cs",
+              "RelativeDocumentMoniker": "StudentProject\\StudentExtension.cs",
+              "ToolTip": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\StudentExtension.cs",
+              "RelativeToolTip": "StudentProject\\StudentExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:04:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentTestsEqualTo.cs",
+              "DocumentMoniker": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProjectTests\\StudentTestsEqualTo.cs",
+              "RelativeDocumentMoniker": "StudentProjectTests\\StudentTestsEqualTo.cs",
+              "ToolTip": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProjectTests\\StudentTestsEqualTo.cs",
+              "RelativeToolTip": "StudentProjectTests\\StudentTestsEqualTo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:30:54.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\Program.cs",
+              "RelativeDocumentMoniker": "StudentProject\\Program.cs",
+              "ToolTip": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\Program.cs",
+              "RelativeToolTip": "StudentProject\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:03:51.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
