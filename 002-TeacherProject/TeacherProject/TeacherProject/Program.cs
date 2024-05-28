@@ -1,4 +1,4 @@
-﻿using TeacherProject;
+﻿using TeacherProject.Models;
 
 Teacher marci = new Teacher
 {
@@ -6,4 +6,19 @@ Teacher marci = new Teacher
     BirthDate = new DateTime(1981, 10, 25),
 };
 
+Teacher eva = new Teacher("Kiss Éva", new DateTime(1981,11,25));
+
 Console.WriteLine(marci);
+
+if (marci.WhoWasBornEarlier(eva))
+{
+    Console.WriteLine($"{marci.Name} előbb született, mint {eva.Name}");
+}
+else if (!marci.WhoWasBornEarlier(eva))
+{
+    Console.WriteLine($"{eva.Name} előbb született, mint {marci.Name}");
+}
+else
+{
+    Console.WriteLine("A két tanár egy napon született!");
+}

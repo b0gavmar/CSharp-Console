@@ -4,23 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TeacherProject
+namespace TeacherProject.Models
 {
     public class Teacher
     {
+        public Teacher()
+        {
+            Name = "";
+            BirthDate = DateTime.Now;
+        }
+
         public string Name { get; set; }
         public DateTime BirthDate { get; set; }
 
         public Teacher(string name, DateTime birthDate)
         {
-            this.Name = name;
-            this.BirthDate = birthDate;
-        }
-
-        public Teacher()
-        {
-            this.Name = "";
-            this.BirthDate = DateTime.Now;
+            Name = name;
+            BirthDate = birthDate;
         }
 
         public override string ToString()
