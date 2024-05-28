@@ -11,14 +11,21 @@ namespace TeacherProject
         public string Name { get; set; }
         public DateTime BirthDate { get; set; }
 
+        public Teacher(string name, DateTime birthDate)
+        {
+            this.Name = name;
+            this.BirthDate = birthDate;
+        }
+
         public Teacher()
         {
-            
+            this.Name = "";
+            this.BirthDate = DateTime.Now;
         }
 
         public override string ToString()
         {
-            return "";
+            return $"{Name} ({BirthDate.ToString("yyyy/MM/dd")})";
         }
     }
 }

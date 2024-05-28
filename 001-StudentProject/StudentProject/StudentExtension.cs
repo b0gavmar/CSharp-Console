@@ -11,7 +11,7 @@ namespace StudentProject
     public static class StudentExtension
     {
         //static,static,this
-        //az extensio azert jo mert nem lesz benne a kod minden legenerált objektumban ==> jo
+        //az extension azert jo mert nem lesz benne a kod minden legenerált objektumban ==> jo
         public static bool IsYounger (this Student student, Student other)
         {
             return student.Age < other.Age;

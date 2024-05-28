@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProjectTests\\StudentProjectTests.csproj": {}
+    "D:\\stuff\\school\\12\\celes\\11-console\\001-StudentProject\\StudentProjectTests\\StudentProjectTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProjectTests\\StudentProjectTests.csproj": {
+    "D:\\stuff\\school\\12\\celes\\11-console\\001-StudentProject\\StudentProjectTests\\StudentProjectTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProjectTests\\StudentProjectTests.csproj",
+        "projectUniqueName": "D:\\stuff\\school\\12\\celes\\11-console\\001-StudentProject\\StudentProjectTests\\StudentProjectTests.csproj",
         "projectName": "StudentProjectTests",
-        "projectPath": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProjectTests\\StudentProjectTests.csproj",
-        "packagesPath": "C:\\Users\\b0gavmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProjectTests\\obj\\",
+        "projectPath": "D:\\stuff\\school\\12\\celes\\11-console\\001-StudentProject\\StudentProjectTests\\StudentProjectTests.csproj",
+        "packagesPath": "C:\\Users\\gavli\\.nuget\\packages\\",
+        "outputPath": "D:\\stuff\\school\\12\\celes\\11-console\\001-StudentProject\\StudentProjectTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\b0gavmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gavli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\StudentProject.csproj": {
-                "projectPath": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\StudentProject.csproj"
+              "D:\\stuff\\school\\12\\celes\\11-console\\001-StudentProject\\StudentProject\\StudentProject.csproj": {
+                "projectPath": "D:\\stuff\\school\\12\\celes\\11-console\\001-StudentProject\\StudentProject\\StudentProject.csproj"
               }
             }
           }
@@ -43,11 +43,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -87,24 +82,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\StudentProject.csproj": {
+    "D:\\stuff\\school\\12\\celes\\11-console\\001-StudentProject\\StudentProject\\StudentProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\StudentProject.csproj",
+        "projectUniqueName": "D:\\stuff\\school\\12\\celes\\11-console\\001-StudentProject\\StudentProject\\StudentProject.csproj",
         "projectName": "StudentProject",
-        "projectPath": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\StudentProject.csproj",
-        "packagesPath": "C:\\Users\\b0gavmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b0gavmar\\Desktop\\StudentProject\\StudentProject\\obj\\",
+        "projectPath": "D:\\stuff\\school\\12\\celes\\11-console\\001-StudentProject\\StudentProject\\StudentProject.csproj",
+        "packagesPath": "C:\\Users\\gavli\\.nuget\\packages\\",
+        "outputPath": "D:\\stuff\\school\\12\\celes\\11-console\\001-StudentProject\\StudentProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\b0gavmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gavli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -126,11 +121,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -152,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
