@@ -27,5 +27,7 @@ namespace TeacherProject.Models
         {
             return $"{Name} ({BirthDate.ToString("yyyy/MM/dd")})";
         }
+
+        
     }
 }

@@ -1,4 +1,5 @@
 ﻿using TeacherProject.Models;
+using TeacherProject.Repos;
 
 Teacher marci = new Teacher
 {
@@ -7,6 +8,11 @@ Teacher marci = new Teacher
 };
 
 Teacher eva = new Teacher("Kiss Éva", new DateTime(1981,11,25));
+
+TeacherRepo teacherRepo = new();
+teacherRepo.AddTeacher(marci);
+teacherRepo.AddTeacher(eva);
+
 
 Console.WriteLine(marci);
 
